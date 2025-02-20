@@ -74,3 +74,4 @@ max_salary = max(employees, key = lambda employees: employees[1])
 min_salary =min(employees, key = lambda emp: emp[1])
 print(f"Max salary has {max_salary}")
 print(f"Min salary has {min_salary}")
+
